@@ -10678,14 +10678,7 @@ http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438049
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438048
 #EXTINF:-1 tvg-id="" tvg-name="Be Play Sport 2" tvg-logo="https://i.ibb.co/yBXkz4xp/play-sports-2-be.png" group-title="Németország",Be Play Sport 2
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438047
-#EXTINF:-1 tvg-id="" tvg-name="Voo Sport 1
-" tvg-logo="https://tvlogo.nl/files/ch/BELC%C4%B0KA/vooSport.png" group-title="VIP · SPORTS EUROPA",Voo Sport 1
 
-http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438046
-#EXTINF:-1 tvg-id="" tvg-name="Voo Sport 2
-" tvg-logo="https://tvlogo.nl/files/ch/BELC%C4%B0KA/vooSport.png" group-title="VIP · SPORTS EUROPA",Voo Sport 2
-
-http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438045
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1" tvg-logo="https://i.ibb.co/8gt8pz1M/dazn1-int.png" group-title="Németország",Eleven Sport 1
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/431755
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV +" tvg-logo="https://i.ibb.co/vvsbfsqb/Sporttv-mais.png" group-title="Németország",Sport TV +
@@ -10712,10 +10705,7 @@ http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438064
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438065
 #EXTINF:-1 tvg-id="" tvg-name="V Sport Premium" tvg-logo="https://i.ibb.co/QvW6fdpf/v-sport-premium-se.png" group-title="Németország",V Sport Premium
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438063
-#EXTINF:-1 tvg-id="" tvg-name="Ct Sport
-" tvg-logo="https://sledovanitv.cz/cache/logos512/ct4sport.png" group-title="VIP · SPORTS EUROPA",Ct Sport
 
-http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438060
 #EXTINF:-1 tvg-id="" tvg-name="Rtvs Sport" tvg-logo="https://sledovanitv.cz/cache/logos512/stv4.png" group-title="Németország",Rtvs Sport
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438059
 #EXTINF:-1 tvg-id="" tvg-name="Sport 1" tvg-logo="http://xcsrc.com/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xn0xY0XL9etPFx9bs377GLJ6fXPlGn47pCOTTxzFZhgw.png" group-title="Németország",Sport 1
@@ -10728,10 +10718,7 @@ http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438056
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438055
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://i.ibb.co/wZ6H7VbZ/arena-sport-1-sk.png" group-title="Németország",Arena Sport 1
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438054
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2
-" tvg-logo="https://sledovanitv.cz/cache/logos512/nova_sport2.png" group-title="VIP · SPORTS EUROPA",Arena Sport 2
 
-http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438053
 #EXTINF:-1 tvg-id="" tvg-name="Blue Sport 1" tvg-logo="http://xtvpro.me:8080/images/4jx7msg-aw0MFn1kn_cAKsyOL_XFqOLgcmifVLMX4X_AkbELg_bZEvsh2Qdv02Gw_FGv_3twRWmkV-9hDkWhxr_4Xg3FcMNsG7qileT_uUkeN648QGrfxFRuM7bwdk5S.png" group-title="Németország",Blue Sport 1
 http://glassx42.xyz:8080/3nVUMnu9Qv/unity12!/438128
 #EXTINF:-1 tvg-id="" tvg-name="Blue Sport 2" tvg-logo="https://i.ibb.co/LfS8xBL/bluesport2.png" group-title="Németország",Blue Sport 2
@@ -48424,6 +48411,401 @@ http://iptvportal.eu:80/buraks255/g3y8mb1i99/357532
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) DAZN LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25125
+#EXTINF:-1 group-title="Spanyolország",ES: (HD REPUESTO) DAZN LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57344
+#EXTINF:-1 group-title="Spanyolország",ES: (HD REPUESTO2) DAZN LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/63431
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) DAZN LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/54668
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD REPUESTO) DAZN LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57359
+#EXTINF:-1 group-title="Spanyolország",ES: DAZN LALIGA 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57476
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) M+ LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5758
+#EXTINF:-1 group-title="Spanyolország",ES: (HD REPUESTO) M+ LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/54535
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/54532
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD REPUESTO) M+ LALIGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57362
+#EXTINF:-1 group-title="Spanyolország",ES: M+ COPA DEL REY
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58303
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) DAZN F1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57485
+#EXTINF:-1 group-title="Spanyolország",ES: (HD REPUESTO) DAZN F1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57484
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) DAZN F1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57486
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD REPUESTO) DAZN F1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57483
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) M+ LIGA DE CAMPEONES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57560
+#EXTINF:-1 group-title="Spanyolország",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57356
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ LIGA DE CAMPEONES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/54531
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57363
+#EXTINF:-1 group-title="Spanyolország",ES: (SD) M+ LIGA DE CAMPEONES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57367
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58115
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5663
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58116
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5664
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 4
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5665
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 5
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5666
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 6
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5667
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 7
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5668
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 8
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5669
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 9
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5670
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 10
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5685
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 11
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5686
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 12
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5687
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LIGA DE CAMPEONES 13
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/29360
+#EXTINF:-1 group-title="Spanyolország",ES: DAZN MOTOGP FHD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/70905
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) DAZN 1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5589
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) DAZN 1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57475
+#EXTINF:-1 group-title="Spanyolország",ES: DAZN 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5590
+#EXTINF:-1 group-title="Spanyolország",ES: DAZN 3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5591
+#EXTINF:-1 group-title="Spanyolország",ES: DAZN 4
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5592
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ LALIGA TV BAR
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5661
+#EXTINF:-1 group-title="Spanyolország",ES: LALIGA TV HYPERMOTION
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25128
+#EXTINF:-1 group-title="Spanyolország",ES: LALIGA TV HYPERMOTION 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25953
+#EXTINF:-1 group-title="Spanyolország",ES: LALIGA TV HYPERMOTION 3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25954
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ LALIGA TV 3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5652
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ LALIGA TV 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5651
+#EXTINF:-1 group-title="Spanyolország",ES: M+ LALIGA TV 4
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57248
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ DEPORTES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5643
+#EXTINF:-1 group-title="Spanyolország",ES: (HD) M+ DEPORTES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57481
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DEPORTES 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5639
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DEPORTES 3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5640
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DEPORTES 4
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5641
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DEPORTES 5
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5681
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DEPORTES 6
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5682
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DEPORTES 7
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5683
+#EXTINF:-1 group-title="Spanyolország",ES: EUROSPORT 1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5607
+#EXTINF:-1 group-title="Spanyolország",ES: EUROSPORT 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5608
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ VAMOS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5630
+#EXTINF:-1 group-title="Spanyolország",ES: (FHD) M+ VAMOS 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/73273
+#EXTINF:-1 group-title="Spanyolország",ES: (LÍNEA 1) ONETORO
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/55943
+#EXTINF:-1 group-title="Spanyolország",ES: TOROLE TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/56009
+#EXTINF:-1 group-title="Spanyolország",ES: (LÍNEA 2) ONETORO
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/56010
+#EXTINF:-1 group-title="Spanyolország",ES: ESPN DEPORTES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5605
+#EXTINF:-1 group-title="Spanyolország",ES: BARCA TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5560
+#EXTINF:-1 group-title="Spanyolország",ES: REAL MADRID TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5729
+#EXTINF:-1 group-title="Spanyolország",ES: BETIS TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57269
+#EXTINF:-1 group-title="Spanyolország",ES: M+ ELLAS V
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/29333
+#EXTINF:-1 group-title="Spanyolország",ES: TELEDEPORTE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5735
+#EXTINF:-1 group-title="Spanyolország",ES: GOL PLAY
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5617
+#EXTINF:-1 group-title="Spanyolország",ES: M+ GOLF
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5649
+#EXTINF:-1 group-title="Spanyolország",ES: TELECINCO
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5734
+#EXTINF:-1 group-title="Spanyolország",ES: LA 1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5622
+#EXTINF:-1 group-title="Spanyolország",ES: LA 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5623
+#EXTINF:-1 group-title="Spanyolország",ES: ANTENA 3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5555
+#EXTINF:-1 group-title="Spanyolország",ES: LA SEXTA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5625
+#EXTINF:-1 group-title="Spanyolország",ES: CUATRO
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5588
+#EXTINF:-1 group-title="Spanyolország",ES: FACTORÍA DE FICCIÓN
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5611
+#EXTINF:-1 group-title="Spanyolország",ES: NOVA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5723
+#EXTINF:-1 group-title="Spanyolország",ES: ENERGY
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5603
+#EXTINF:-1 group-title="Spanyolország",ES: TRECE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5741
+#EXTINF:-1 group-title="Spanyolország",ES: 24 HORAS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5550
+#EXTINF:-1 group-title="Spanyolország",ES: AMC
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5553
+#EXTINF:-1 group-title="Spanyolország",ES: ARAGÓN TV INT
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5556
+#EXTINF:-1 group-title="Spanyolország",ES: AXN
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5557
+#EXTINF:-1 group-title="Spanyolország",ES: AXN MOVIES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5558
+#EXTINF:-1 group-title="Spanyolország",ES: BE MAD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5561
+#EXTINF:-1 group-title="Spanyolország",ES: AMC BREAK
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5564
+#EXTINF:-1 group-title="Spanyolország",ES: CALLE 13
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5567
+#EXTINF:-1 group-title="Spanyolország",ES: CANAL COCINA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5570
+#EXTINF:-1 group-title="Spanyolország",ES: MOVISTAR PLUS+
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57285
+#EXTINF:-1 group-title="Spanyolország",ES: CANAL DECASA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5571
+#EXTINF:-1 group-title="Spanyolország",ES: CANAL SUR ANDALUCÍA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5576
+#EXTINF:-1 group-title="Spanyolország",ES: CAZA Y PESCA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5578
+#EXTINF:-1 group-title="Spanyolország",ES: CLAN TVE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5580
+#EXTINF:-1 group-title="Spanyolország",ES: COMEDY CENTRAL
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5584
+#EXTINF:-1 group-title="Spanyolország",ES: COSMO
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5585
+#EXTINF:-1 group-title="Spanyolország",ES: DISCOVERY
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5594
+#EXTINF:-1 group-title="Spanyolország",ES: BABY TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5559
+#EXTINF:-1 group-title="Spanyolország",ES: BOING
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5565
+#EXTINF:-1 group-title="Spanyolország",ES: DISNEY CHANNEL
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5596
+#EXTINF:-1 group-title="Spanyolország",ES: DISNEY JUNIOR
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5597
+#EXTINF:-1 group-title="Spanyolország",ES: DREAMWORKS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5602
+#EXTINF:-1 group-title="Spanyolország",ES: NICK JR
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5720
+#EXTINF:-1 group-title="Spanyolország",ES: NICKELODEON
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5721
+#EXTINF:-1 group-title="Spanyolország",ES: DIVINITY
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5599
+#EXTINF:-1 group-title="Spanyolország",ES: DKISS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5600
+#EXTINF:-1 group-title="Spanyolország",ES: DMAX
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5601
+#EXTINF:-1 group-title="Spanyolország",ES: CANAL EXTREMADURA SAT
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5609
+#EXTINF:-1 group-title="Spanyolország",ES: STAR CHANNEL
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5613
+#EXTINF:-1 group-title="Spanyolország",ES: HISTORIA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5618
+#EXTINF:-1 group-title="Spanyolország",ES: IBERALIA TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5621
+#EXTINF:-1 group-title="Spanyolország",ES: M+ ACCIÓN
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5632
+#EXTINF:-1 group-title="Spanyolország",ES: M+ COMEDIA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5636
+#EXTINF:-1 group-title="Spanyolország",ES: M+ CINE ESPANOL
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5633
+#EXTINF:-1 group-title="Spanyolország",ES: M+ CLÁSICOS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5634
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DRAMA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5644
+#EXTINF:-1 group-title="Spanyolország",ES: M+ INDIE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57282
+#EXTINF:-1 group-title="Spanyolország",ES: M+ HITS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5675
+#EXTINF:-1 group-title="Spanyolország",ES: HOLLYWOOD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5619
+#EXTINF:-1 group-title="Spanyolország",ES: PARAMOUNT CHANNEL
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5727
+#EXTINF:-1 group-title="Spanyolország",ES: SOMOS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5730
+#EXTINF:-1 group-title="Spanyolország",ES: WARNER TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5739
+#EXTINF:-1 group-title="Spanyolország",ES: TCM
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5733
+#EXTINF:-1 group-title="Spanyolország",ES: MEGA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5688
+#EXTINF:-1 group-title="Spanyolország",ES: MEZZO LIVE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5689
+#EXTINF:-1 group-title="Spanyolország",ES: MTV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5712
+#EXTINF:-1 group-title="Spanyolország",ES: NATIONAL GEOGRAPHIC
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5714
+#EXTINF:-1 group-title="Spanyolország",ES: NAT GEO WILD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5715
+#EXTINF:-1 group-title="Spanyolország",ES: NEOX
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5718
+#EXTINF:-1 group-title="Spanyolország",ES: ODISEA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5724
+#EXTINF:-1 group-title="Spanyolország",ES: ENFAMILIA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5726
+#EXTINF:-1 group-title="Spanyolország",ES: SUNDANCE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5731
+#EXTINF:-1 group-title="Spanyolország",ES: SYFY
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5732
+#EXTINF:-1 group-title="Spanyolország",ES: TELEMADRID INT
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5736
+#EXTINF:-1 group-title="Spanyolország",ES: TEN
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5738
+#EXTINF:-1 group-title="Spanyolország",ES: TV3 CAT
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5743
+#EXTINF:-1 group-title="Spanyolország",ES: TVE INTERNACIONAL
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5745
+#EXTINF:-1 group-title="Spanyolország",ES: XTRM
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5751
+#EXTINF:-1 group-title="Spanyolország",ES: ETB 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5759
+#EXTINF:-1 group-title="Spanyolország",ES: ETB 1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/5760
+#EXTINF:-1 group-title="Spanyolország",ES: CNN
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25923
+#EXTINF:-1 group-title="Spanyolország",ES: A PUNT
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25925
+#EXTINF:-1 group-title="Spanyolország",ES: AMC BREAK
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25926
+#EXTINF:-1 group-title="Spanyolország",ES: AMC CRIME
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25927
+#EXTINF:-1 group-title="Spanyolország",ES: DARK
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25930
+#EXTINF:-1 group-title="Spanyolország",ES: EL TORO TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25932
+#EXTINF:-1 group-title="Spanyolország",ES: EURONEWS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25935
+#EXTINF:-1 group-title="Spanyolország",ES: TELESUR
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25943
+#EXTINF:-1 group-title="Spanyolország",ES: UBEAT
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25951
+#EXTINF:-1 group-title="Spanyolország",ES: ATRESERIES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/25952
+#EXTINF:-1 group-title="Spanyolország",ES: TELEONUBA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/29336
+#EXTINF:-1 group-title="Spanyolország",ES: STAR TVE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/29338
+#EXTINF:-1 group-title="Spanyolország",ES: CAZAVISIÓN
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/29358
+#EXTINF:-1 group-title="Spanyolország",ES: M+ GOLF 2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57256
+#EXTINF:-1 group-title="Spanyolország",ES: M+ BUEN VIAJE
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57259
+#EXTINF:-1 group-title="Spanyolország",ES: M+ ORIGINALES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57283
+#EXTINF:-1 group-title="Spanyolország",ES: M+ DOCUMENTALES
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/57284
+#EXTINF:-1 group-title="Spanyolország",ES: MAX PPV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58113
+#EXTINF:-1 group-title="Spanyolország",ES: UFC FIGHT PASS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58114
+#EXTINF:-1 group-title="Spanyolország",CH1
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58313
+#EXTINF:-1 group-title="Spanyolország",CH4
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58316
+#EXTINF:-1 group-title="Spanyolország",CH11
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58323
+#EXTINF:-1 group-title="Spanyolország",CH12
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58324
+#EXTINF:-1 group-title="Spanyolország",CH2
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58314
+#EXTINF:-1 group-title="Spanyolország",CH3
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58315
+#EXTINF:-1 group-title="Spanyolország",CH5
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58317
+#EXTINF:-1 group-title="Spanyolország",CH6
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58318
+#EXTINF:-1 group-title="Spanyolország",CH7
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58319
+#EXTINF:-1 group-title="Spanyolország",CH8
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58320
+#EXTINF:-1 group-title="Spanyolország",CH9
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58321
+#EXTINF:-1 group-title="Spanyolország",CH10
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58322
+#EXTINF:-1 group-title="Spanyolország",ES: RALLY TV
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58325
+#EXTINF:-1 group-title="Spanyolország",ES: CASTILLA LA MANCHA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58329
+#EXTINF:-1 group-title="Spanyolország",ES: M+ ESTRENOS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58330
+#EXTINF:-1 group-title="Spanyolország",ES: IBERALIA 100% CAZA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58332
+#EXTINF:-1 group-title="Spanyolország",ES: IBERALIA 100% PESCA
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58333
+#EXTINF:-1 group-title="Spanyolország",ES: M+ HITS
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/58881
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto FHD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74019
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto HD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74020
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 2 FHD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74021
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 2 HD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74022
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 01
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/63433
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 02
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/63434
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 03
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/63435
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 04
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/63436
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 05
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/63437
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 06
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/64831
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 07
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/64832
+#EXTINF:-1 group-title="Spanyolország",ES: ACB Evento 08
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/64833
+#EXTINF:-1 group-title="Spanyolország",ES: TV Canaria
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/70904
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 3 HD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74023
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 3 FHD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74024
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 4 HD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74025
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 4 FHD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74026
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 5 HD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74027
+#EXTINF:-1 group-title="Spanyolország",ES: M+ Baloncesto 5 FHD
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74028
+#EXTINF:-1 group-title="Spanyolország",ES: La Septima
+http://vivaelbetis.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/74064
 
 
 
